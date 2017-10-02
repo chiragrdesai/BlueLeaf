@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/vishvapatel/Desktop/Workspace/AppFillBelly/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility.xml",
+        "source": "/Users/vishvapatel/.android/build-cache/a8ffb215911eeab88661912149122fad5585d943/output/res/drawable-anydpi-v21/design_ic_visibility.xml"
+    },
+    {
+        "merged": "/Users/vishvapatel/Desktop/Workspace/AppFillBelly/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_account_circle_black_24dp.xml",
+        "source": "/Users/vishvapatel/Desktop/Workspace/AppFillBelly/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_account_circle_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/vishvapatel/Desktop/Workspace/AppFillBelly/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility_off.xml",
+        "source": "/Users/vishvapatel/.android/build-cache/a8ffb215911eeab88661912149122fad5585d943/output/res/drawable-anydpi-v21/design_ic_visibility_off.xml"
+    }
+]

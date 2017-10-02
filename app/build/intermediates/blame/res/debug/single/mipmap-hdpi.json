@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/vishvapatel/Desktop/Workspace/AppFillBelly/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher.png",
+        "source": "/Users/vishvapatel/Desktop/Workspace/AppFillBelly/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/vishvapatel/Desktop/Workspace/AppFillBelly/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher_round.png",
+        "source": "/Users/vishvapatel/Desktop/Workspace/AppFillBelly/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    }
+]

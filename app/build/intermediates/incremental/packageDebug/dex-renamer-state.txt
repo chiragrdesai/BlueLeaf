@@ -1,0 +1,7 @@
+#Mon Oct 02 16:47:30 EDT 2017
+base.0=/Users/vishvapatel/Desktop/Workspace/AppFillBelly/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_955146d0c52d6a72343b781551fe89df14c4bb9d
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/vishvapatel/Desktop/Workspace/AppFillBelly/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_0f1eb8baa151b2da398a9ce09e810e0026d185d1/classes.dex
+base.1=/Users/vishvapatel/Desktop/Workspace/AppFillBelly/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_0f1eb8baa151b2da398a9ce09e810e0026d185d1
+file.0=/Users/vishvapatel/Desktop/Workspace/AppFillBelly/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_955146d0c52d6a72343b781551fe89df14c4bb9d/classes.dex

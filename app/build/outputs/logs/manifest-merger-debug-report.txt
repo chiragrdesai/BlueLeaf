@@ -1,0 +1,246 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/vishvapatel/Desktop/Workspace/AppFillBelly/app/src/main/AndroidManifest.xml:2:1-23:12
+	package
+		ADDED from /Users/vishvapatel/Desktop/Workspace/AppFillBelly/app/src/main/AndroidManifest.xml:3:5-43
+		INJECTED from /Users/vishvapatel/Desktop/Workspace/AppFillBelly/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/vishvapatel/Desktop/Workspace/AppFillBelly/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/vishvapatel/Desktop/Workspace/AppFillBelly/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/vishvapatel/Desktop/Workspace/AppFillBelly/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/vishvapatel/Desktop/Workspace/AppFillBelly/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /Users/vishvapatel/Desktop/Workspace/AppFillBelly/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/vishvapatel/Desktop/Workspace/AppFillBelly/app/src/main/AndroidManifest.xml
+application
+ADDED from /Users/vishvapatel/Desktop/Workspace/AppFillBelly/app/src/main/AndroidManifest.xml:5:5-21:19
+MERGED from [com.google.firebase:firebase-core:10.2.0] /Users/vishvapatel/.android/build-cache/13b746ff76ad64e7dc8859c800f5f01e2026bc2e/output/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics:10.2.0] /Users/vishvapatel/.android/build-cache/0d5c0c842532ad42cb756964abe1f0c214d0e534/output/AndroidManifest.xml:24:5-33:19
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.0] /Users/vishvapatel/.android/build-cache/99c0206b22cc1a5171a99bcd89a096b35c7a1cdb/output/AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-iid:10.2.0] /Users/vishvapatel/.android/build-cache/808d00041052b7c424ff96a9a887a07253bf1a03/output/AndroidManifest.xml:28:5-50:19
+MERGED from [com.google.firebase:firebase-common:10.2.0] /Users/vishvapatel/.android/build-cache/7086caab1f65620d2d48a49ef611899c2db9fa29/output/AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-tasks:10.2.0] /Users/vishvapatel/.android/build-cache/2f3c89af5b30dfcb8cc977988ed3e9ebe6864158/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:10.2.0] /Users/vishvapatel/.android/build-cache/b77fe2a33d1e7c8544122e0b8030e9b967e51c20/output/AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:design:26.0.0-alpha1] /Users/vishvapatel/.android/build-cache/a8ffb215911eeab88661912149122fad5585d943/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:transition:26.0.0-alpha1] /Users/vishvapatel/.android/build-cache/af039b8666f448b16636bb5a4f3ca337458f6401/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/vishvapatel/.android/build-cache/83f55b9a377c8dee380c1fb1b5644c99e045885f/output/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:cardview-v7:26.0.0-alpha1] /Users/vishvapatel/.android/build-cache/8151f8ac85b0e588f585ccd76dfea248f24058d2/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/vishvapatel/.android/build-cache/3bf8e3b8c1f4450cca7f4e8190133c923af07179/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/vishvapatel/.android/build-cache/70c5c6c9cc6b68764afbfd6aca64b64c4d8b577c/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/vishvapatel/.android/build-cache/b24ce23d58765cd9d49f040ec74c6e015e8b00fb/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/vishvapatel/.android/build-cache/f02163601f3dad7efe9b3e3cfc1643a6945c5a0b/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/vishvapatel/.android/build-cache/8df49b8a596c29696eb4eba678c78efb6aed3375/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/vishvapatel/.android/build-cache/c643282bf28b2aca25c8717b69001b600ef3cb02/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/vishvapatel/.android/build-cache/e4ed03e0301442a063ff3a1363485ce45fabfdf1/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /Users/vishvapatel/.android/build-cache/efa85a199cbaf25518baef9c8cdcd2c76f91f738/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/vishvapatel/.android/build-cache/144e929b51c94fe68346db01323fcc9047b0692f/output/AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from /Users/vishvapatel/Desktop/Workspace/AppFillBelly/app/src/main/AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from /Users/vishvapatel/Desktop/Workspace/AppFillBelly/app/src/main/AndroidManifest.xml:10:9-35
+	android:roundIcon
+		ADDED from /Users/vishvapatel/Desktop/Workspace/AppFillBelly/app/src/main/AndroidManifest.xml:9:9-54
+	android:allowBackup
+		ADDED from /Users/vishvapatel/Desktop/Workspace/AppFillBelly/app/src/main/AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from /Users/vishvapatel/Desktop/Workspace/AppFillBelly/app/src/main/AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from /Users/vishvapatel/Desktop/Workspace/AppFillBelly/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.example.jay.appfillbelly.MainActivity
+ADDED from /Users/vishvapatel/Desktop/Workspace/AppFillBelly/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /Users/vishvapatel/Desktop/Workspace/AppFillBelly/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/vishvapatel/Desktop/Workspace/AppFillBelly/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /Users/vishvapatel/Desktop/Workspace/AppFillBelly/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /Users/vishvapatel/Desktop/Workspace/AppFillBelly/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/vishvapatel/Desktop/Workspace/AppFillBelly/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /Users/vishvapatel/Desktop/Workspace/AppFillBelly/app/src/main/AndroidManifest.xml:16:27-74
+activity#com.example.jay.appfillbelly.SignIn
+ADDED from /Users/vishvapatel/Desktop/Workspace/AppFillBelly/app/src/main/AndroidManifest.xml:19:9-44
+	android:name
+		ADDED from /Users/vishvapatel/Desktop/Workspace/AppFillBelly/app/src/main/AndroidManifest.xml:19:19-41
+activity#com.example.jay.appfillbelly.SignUp
+ADDED from /Users/vishvapatel/Desktop/Workspace/AppFillBelly/app/src/main/AndroidManifest.xml:20:9-53
+	android:name
+		ADDED from /Users/vishvapatel/Desktop/Workspace/AppFillBelly/app/src/main/AndroidManifest.xml:20:19-41
+uses-sdk
+INJECTED from /Users/vishvapatel/Desktop/Workspace/AppFillBelly/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.google.firebase:firebase-core:10.2.0] /Users/vishvapatel/.android/build-cache/13b746ff76ad64e7dc8859c800f5f01e2026bc2e/output/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics:10.2.0] /Users/vishvapatel/.android/build-cache/0d5c0c842532ad42cb756964abe1f0c214d0e534/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.0] /Users/vishvapatel/.android/build-cache/99c0206b22cc1a5171a99bcd89a096b35c7a1cdb/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-iid:10.2.0] /Users/vishvapatel/.android/build-cache/808d00041052b7c424ff96a9a887a07253bf1a03/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-database:10.2.0] /Users/vishvapatel/.android/build-cache/8b4431df698016e6aadc0037f67c016ade40c4cc/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-database-connection:10.2.0] /Users/vishvapatel/.android/build-cache/05c2185c6c349a9198e4193fd6b853a7e9e5fb26/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-common:10.2.0] /Users/vishvapatel/.android/build-cache/7086caab1f65620d2d48a49ef611899c2db9fa29/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tasks:10.2.0] /Users/vishvapatel/.android/build-cache/2f3c89af5b30dfcb8cc977988ed3e9ebe6864158/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:10.2.0] /Users/vishvapatel/.android/build-cache/b77fe2a33d1e7c8544122e0b8030e9b967e51c20/output/AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:design:26.0.0-alpha1] /Users/vishvapatel/.android/build-cache/a8ffb215911eeab88661912149122fad5585d943/output/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] /Users/vishvapatel/.android/build-cache/72d4bf6b4c73f592302319a0586491f0755c49e4/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.0.0-alpha1] /Users/vishvapatel/.android/build-cache/af039b8666f448b16636bb5a4f3ca337458f6401/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/vishvapatel/.android/build-cache/83f55b9a377c8dee380c1fb1b5644c99e045885f/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:cardview-v7:26.0.0-alpha1] /Users/vishvapatel/.android/build-cache/8151f8ac85b0e588f585ccd76dfea248f24058d2/output/AndroidManifest.xml:20:5-44
+MERGED from [info.hoang8f:fbutton:1.0.5] /Users/vishvapatel/.android/build-cache/3c5b9ed0382951bbecd96ee3fc3038f0eaff5e0a/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.rengwuxian.materialedittext:library:2.1.4] /Users/vishvapatel/.android/build-cache/3e15b92614554af0b8501c09e224f77fcca4cd08/output/AndroidManifest.xml:6:5-8:41
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/vishvapatel/.android/build-cache/3bf8e3b8c1f4450cca7f4e8190133c923af07179/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/vishvapatel/.android/build-cache/70c5c6c9cc6b68764afbfd6aca64b64c4d8b577c/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/vishvapatel/.android/build-cache/b24ce23d58765cd9d49f040ec74c6e015e8b00fb/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/vishvapatel/.android/build-cache/f02163601f3dad7efe9b3e3cfc1643a6945c5a0b/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/vishvapatel/.android/build-cache/8df49b8a596c29696eb4eba678c78efb6aed3375/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/vishvapatel/.android/build-cache/c643282bf28b2aca25c8717b69001b600ef3cb02/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/vishvapatel/.android/build-cache/e4ed03e0301442a063ff3a1363485ce45fabfdf1/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /Users/vishvapatel/.android/build-cache/efa85a199cbaf25518baef9c8cdcd2c76f91f738/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/vishvapatel/.android/build-cache/144e929b51c94fe68346db01323fcc9047b0692f/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.0.0-alpha1] /Users/vishvapatel/.android/build-cache/a8ffb215911eeab88661912149122fad5585d943/output/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /Users/vishvapatel/Desktop/Workspace/AppFillBelly/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/vishvapatel/Desktop/Workspace/AppFillBelly/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/vishvapatel/Desktop/Workspace/AppFillBelly/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/vishvapatel/Desktop/Workspace/AppFillBelly/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from [com.google.firebase:firebase-analytics:10.2.0] /Users/vishvapatel/.android/build-cache/0d5c0c842532ad42cb756964abe1f0c214d0e534/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.0] /Users/vishvapatel/.android/build-cache/99c0206b22cc1a5171a99bcd89a096b35c7a1cdb/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:10.2.0] /Users/vishvapatel/.android/build-cache/808d00041052b7c424ff96a9a887a07253bf1a03/output/AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.2.0] /Users/vishvapatel/.android/build-cache/0d5c0c842532ad42cb756964abe1f0c214d0e534/output/AndroidManifest.xml:20:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-analytics:10.2.0] /Users/vishvapatel/.android/build-cache/0d5c0c842532ad42cb756964abe1f0c214d0e534/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.0] /Users/vishvapatel/.android/build-cache/99c0206b22cc1a5171a99bcd89a096b35c7a1cdb/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-iid:10.2.0] /Users/vishvapatel/.android/build-cache/808d00041052b7c424ff96a9a887a07253bf1a03/output/AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.2.0] /Users/vishvapatel/.android/build-cache/0d5c0c842532ad42cb756964abe1f0c214d0e534/output/AndroidManifest.xml:21:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-analytics:10.2.0] /Users/vishvapatel/.android/build-cache/0d5c0c842532ad42cb756964abe1f0c214d0e534/output/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.0] /Users/vishvapatel/.android/build-cache/99c0206b22cc1a5171a99bcd89a096b35c7a1cdb/output/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:10.2.0] /Users/vishvapatel/.android/build-cache/808d00041052b7c424ff96a9a887a07253bf1a03/output/AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.2.0] /Users/vishvapatel/.android/build-cache/0d5c0c842532ad42cb756964abe1f0c214d0e534/output/AndroidManifest.xml:22:22-65
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:10.2.0] /Users/vishvapatel/.android/build-cache/0d5c0c842532ad42cb756964abe1f0c214d0e534/output/AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.0] /Users/vishvapatel/.android/build-cache/99c0206b22cc1a5171a99bcd89a096b35c7a1cdb/output/AndroidManifest.xml:25:7-26:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.2.0] /Users/vishvapatel/.android/build-cache/0d5c0c842532ad42cb756964abe1f0c214d0e534/output/AndroidManifest.xml:25:90-112
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:10.2.0] /Users/vishvapatel/.android/build-cache/0d5c0c842532ad42cb756964abe1f0c214d0e534/output/AndroidManifest.xml:25:113-137
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.2.0] /Users/vishvapatel/.android/build-cache/0d5c0c842532ad42cb756964abe1f0c214d0e534/output/AndroidManifest.xml:25:17-89
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:10.2.0] /Users/vishvapatel/.android/build-cache/0d5c0c842532ad42cb756964abe1f0c214d0e534/output/AndroidManifest.xml:27:7-31:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.2.0] /Users/vishvapatel/.android/build-cache/0d5c0c842532ad42cb756964abe1f0c214d0e534/output/AndroidManifest.xml:27:162-184
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:10.2.0] /Users/vishvapatel/.android/build-cache/0d5c0c842532ad42cb756964abe1f0c214d0e534/output/AndroidManifest.xml:27:105-161
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.2.0] /Users/vishvapatel/.android/build-cache/0d5c0c842532ad42cb756964abe1f0c214d0e534/output/AndroidManifest.xml:27:17-104
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:10.2.0] /Users/vishvapatel/.android/build-cache/0d5c0c842532ad42cb756964abe1f0c214d0e534/output/AndroidManifest.xml:28:11-30:27
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:10.2.0] /Users/vishvapatel/.android/build-cache/0d5c0c842532ad42cb756964abe1f0c214d0e534/output/AndroidManifest.xml:29:15-76
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.2.0] /Users/vishvapatel/.android/build-cache/0d5c0c842532ad42cb756964abe1f0c214d0e534/output/AndroidManifest.xml:29:23-74
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:10.2.0] /Users/vishvapatel/.android/build-cache/0d5c0c842532ad42cb756964abe1f0c214d0e534/output/AndroidManifest.xml:32:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.0] /Users/vishvapatel/.android/build-cache/99c0206b22cc1a5171a99bcd89a096b35c7a1cdb/output/AndroidManifest.xml:27:7-137
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.2.0] /Users/vishvapatel/.android/build-cache/0d5c0c842532ad42cb756964abe1f0c214d0e534/output/AndroidManifest.xml:32:88-110
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:10.2.0] /Users/vishvapatel/.android/build-cache/0d5c0c842532ad42cb756964abe1f0c214d0e534/output/AndroidManifest.xml:32:111-135
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.2.0] /Users/vishvapatel/.android/build-cache/0d5c0c842532ad42cb756964abe1f0c214d0e534/output/AndroidManifest.xml:32:16-87
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:10.2.0] /Users/vishvapatel/.android/build-cache/808d00041052b7c424ff96a9a887a07253bf1a03/output/AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] /Users/vishvapatel/.android/build-cache/808d00041052b7c424ff96a9a887a07253bf1a03/output/AndroidManifest.xml:22:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:10.2.0] /Users/vishvapatel/.android/build-cache/808d00041052b7c424ff96a9a887a07253bf1a03/output/AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] /Users/vishvapatel/.android/build-cache/808d00041052b7c424ff96a9a887a07253bf1a03/output/AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] /Users/vishvapatel/.android/build-cache/808d00041052b7c424ff96a9a887a07253bf1a03/output/AndroidManifest.xml:24:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:10.2.0] /Users/vishvapatel/.android/build-cache/808d00041052b7c424ff96a9a887a07253bf1a03/output/AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] /Users/vishvapatel/.android/build-cache/808d00041052b7c424ff96a9a887a07253bf1a03/output/AndroidManifest.xml:26:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:10.2.0] /Users/vishvapatel/.android/build-cache/808d00041052b7c424ff96a9a887a07253bf1a03/output/AndroidManifest.xml:30:9-36:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] /Users/vishvapatel/.android/build-cache/808d00041052b7c424ff96a9a887a07253bf1a03/output/AndroidManifest.xml:30:85-108
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] /Users/vishvapatel/.android/build-cache/808d00041052b7c424ff96a9a887a07253bf1a03/output/AndroidManifest.xml:30:109-169
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] /Users/vishvapatel/.android/build-cache/808d00041052b7c424ff96a9a887a07253bf1a03/output/AndroidManifest.xml:30:19-84
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE+com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:10.2.0] /Users/vishvapatel/.android/build-cache/808d00041052b7c424ff96a9a887a07253bf1a03/output/AndroidManifest.xml:31:13-35:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:10.2.0] /Users/vishvapatel/.android/build-cache/808d00041052b7c424ff96a9a887a07253bf1a03/output/AndroidManifest.xml:32:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] /Users/vishvapatel/.android/build-cache/808d00041052b7c424ff96a9a887a07253bf1a03/output/AndroidManifest.xml:32:25-78
+action#com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:10.2.0] /Users/vishvapatel/.android/build-cache/808d00041052b7c424ff96a9a887a07253bf1a03/output/AndroidManifest.xml:33:17-85
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] /Users/vishvapatel/.android/build-cache/808d00041052b7c424ff96a9a887a07253bf1a03/output/AndroidManifest.xml:33:25-83
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:10.2.0] /Users/vishvapatel/.android/build-cache/808d00041052b7c424ff96a9a887a07253bf1a03/output/AndroidManifest.xml:34:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] /Users/vishvapatel/.android/build-cache/808d00041052b7c424ff96a9a887a07253bf1a03/output/AndroidManifest.xml:34:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:10.2.0] /Users/vishvapatel/.android/build-cache/808d00041052b7c424ff96a9a887a07253bf1a03/output/AndroidManifest.xml:40:9-119
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] /Users/vishvapatel/.android/build-cache/808d00041052b7c424ff96a9a887a07253bf1a03/output/AndroidManifest.xml:40:93-117
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] /Users/vishvapatel/.android/build-cache/808d00041052b7c424ff96a9a887a07253bf1a03/output/AndroidManifest.xml:40:19-92
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:10.2.0] /Users/vishvapatel/.android/build-cache/808d00041052b7c424ff96a9a887a07253bf1a03/output/AndroidManifest.xml:44:9-48:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] /Users/vishvapatel/.android/build-cache/808d00041052b7c424ff96a9a887a07253bf1a03/output/AndroidManifest.xml:44:83-106
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] /Users/vishvapatel/.android/build-cache/808d00041052b7c424ff96a9a887a07253bf1a03/output/AndroidManifest.xml:44:18-82
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:10.2.0] /Users/vishvapatel/.android/build-cache/808d00041052b7c424ff96a9a887a07253bf1a03/output/AndroidManifest.xml:45:13-47:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] /Users/vishvapatel/.android/build-cache/808d00041052b7c424ff96a9a887a07253bf1a03/output/AndroidManifest.xml:45:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:10.2.0] /Users/vishvapatel/.android/build-cache/808d00041052b7c424ff96a9a887a07253bf1a03/output/AndroidManifest.xml:46:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] /Users/vishvapatel/.android/build-cache/808d00041052b7c424ff96a9a887a07253bf1a03/output/AndroidManifest.xml:46:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:10.2.0] /Users/vishvapatel/.android/build-cache/7086caab1f65620d2d48a49ef611899c2db9fa29/output/AndroidManifest.xml:6:9-194
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:10.2.0] /Users/vishvapatel/.android/build-cache/7086caab1f65620d2d48a49ef611899c2db9fa29/output/AndroidManifest.xml:6:19-78
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:10.2.0] /Users/vishvapatel/.android/build-cache/7086caab1f65620d2d48a49ef611899c2db9fa29/output/AndroidManifest.xml:6:144-168
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:10.2.0] /Users/vishvapatel/.android/build-cache/7086caab1f65620d2d48a49ef611899c2db9fa29/output/AndroidManifest.xml:6:169-192
+	android:name
+		ADDED from [com.google.firebase:firebase-common:10.2.0] /Users/vishvapatel/.android/build-cache/7086caab1f65620d2d48a49ef611899c2db9fa29/output/AndroidManifest.xml:6:79-143
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:10.2.0] /Users/vishvapatel/.android/build-cache/b77fe2a33d1e7c8544122e0b8030e9b967e51c20/output/AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:10.2.0] /Users/vishvapatel/.android/build-cache/b77fe2a33d1e7c8544122e0b8030e9b967e51c20/output/AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:10.2.0] /Users/vishvapatel/.android/build-cache/b77fe2a33d1e7c8544122e0b8030e9b967e51c20/output/AndroidManifest.xml:20:20-65
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.0.0-alpha1] /Users/vishvapatel/.android/build-cache/a8ffb215911eeab88661912149122fad5585d943/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] /Users/vishvapatel/.android/build-cache/72d4bf6b4c73f592302319a0586491f0755c49e4/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:transition:26.0.0-alpha1] /Users/vishvapatel/.android/build-cache/af039b8666f448b16636bb5a4f3ca337458f6401/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:cardview-v7:26.0.0-alpha1] /Users/vishvapatel/.android/build-cache/8151f8ac85b0e588f585ccd76dfea248f24058d2/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/vishvapatel/.android/build-cache/3bf8e3b8c1f4450cca7f4e8190133c923af07179/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/vishvapatel/.android/build-cache/70c5c6c9cc6b68764afbfd6aca64b64c4d8b577c/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/vishvapatel/.android/build-cache/b24ce23d58765cd9d49f040ec74c6e015e8b00fb/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/vishvapatel/.android/build-cache/f02163601f3dad7efe9b3e3cfc1643a6945c5a0b/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/vishvapatel/.android/build-cache/8df49b8a596c29696eb4eba678c78efb6aed3375/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/vishvapatel/.android/build-cache/c643282bf28b2aca25c8717b69001b600ef3cb02/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/vishvapatel/.android/build-cache/e4ed03e0301442a063ff3a1363485ce45fabfdf1/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /Users/vishvapatel/.android/build-cache/efa85a199cbaf25518baef9c8cdcd2c76f91f738/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/vishvapatel/.android/build-cache/144e929b51c94fe68346db01323fcc9047b0692f/output/AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:design:26.0.0-alpha1] /Users/vishvapatel/.android/build-cache/a8ffb215911eeab88661912149122fad5585d943/output/AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from [com.android.support:design:26.0.0-alpha1] /Users/vishvapatel/.android/build-cache/a8ffb215911eeab88661912149122fad5585d943/output/AndroidManifest.xml:26:9-47

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "221089395648",
+    "firebase_url": "https://androidfillbelly.firebaseio.com",
+    "project_id": "androidfillbelly",
+    "storage_bucket": "androidfillbelly.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:221089395648:android:45ae3901df112115",
+        "android_client_info": {
+          "package_name": "com.example.jay.appfillbelly"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "221089395648-7hfap9uopb84ng8lgjib5sl8nct56scq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.jay.appfillbelly",
+            "certificate_hash": "4e08881f03da5faffb6c56fde974765310a9213d"
+          }
+        },
+        {
+          "client_id": "221089395648-ark78qkbp5carngv7ak5luhqp1fd2vjk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLjMlGgQTECVDhxVXF3WnQKSy2n0MMMB0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "221089395648-ark78qkbp5carngv7ak5luhqp1fd2vjk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
