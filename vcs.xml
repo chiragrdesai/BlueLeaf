@@ -12,6 +12,6 @@
         </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Desktop/FillBelly" />
+    <option name="cloneParentDir" value="/Applications/Git" />
   </component>
 </application>
