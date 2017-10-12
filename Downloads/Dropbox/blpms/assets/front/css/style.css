@@ -1,0 +1,248 @@
+span.red-font-circle {
+	color: #b20000;
+	font-size: 25px;
+	margin-right: 20px;
+	background-color: #FFF;
+	width: 40px;
+	text-align: center;
+	border-radius: 35px;
+	height: 40px;
+	display: inline-block;
+	padding-top: 4px;
+}
+span.blue-font-circle {
+	color: #00668e;
+	font-size: 25px;
+	margin-right: 20px;
+	background-color: #FFF;
+	width: 40px;
+	text-align: center;
+	border-radius: 35px;
+	height: 40px;
+	display: inline-block;
+	padding-top: 4px;
+}
+.zip-code-step {
+	margin-bottom: 35px;
+}
+.verify-city-step{
+	margin-bottom: 35px;
+	opacity: 0.5; 
+	clear: both;
+}
+/* Start to Below code added by tricore.dev12 */
+.form-control-other {
+border-color: #b94a48 !important;
+background-color: #E9B4B6;
+/*float: left;*/
+}
+
+label.control-label-other {
+color: #b94a48 !important;
+font-size: 20px;
+float: right;
+position: relative;
+top: 29px;
+}
+/* End to abouve code added by tricore.dev12 */
+.issue-step {
+	margin-bottom: 25px;
+	opacity: 0.5;
+	clear: both;
+}
+.issue-step > div {
+	margin-left: 65px;
+}
+.row label {
+	display: inline;
+	color: #343527;
+	font-size: 22px;
+	font-weight: 400;
+}
+input.zip-code {
+	display: block;
+	margin-left: 61px;
+	border-radius: 15px;
+	width: 180px;
+	height: 70px;
+	border: 2px solid #e9e9df;
+	outline:none;
+	margin-top: 25px;
+	font-size: 22px;
+}
+input.other_city {
+	display: none;
+	margin-left: 61px;
+	border-radius: 15px;
+	width: 180px;
+	height: 70px;
+	border: 2px solid #e9e9df;
+	outline:none;
+	margin-top: 25px;
+}
+.row input[type="checkbox"] {
+	/*margin-left: 64px;*/
+	margin-bottom: 20px;
+	display: none;
+}
+label.checkbox_text {
+	/*margin-left: 21px;
+	margin-right: 35px;*/
+	margin-left: 40px;
+	width: 27%;
+	display: none;
+}
+label.radio_text_other,label.radio_text_city_name {
+	/*margin-right: 157px;*/
+	margin-right: 140px;
+	margin-left: 14px;
+	display: none;
+}
+.row input[type="radio"] {
+	margin-left: 63px;
+	margin-top: 25px;
+	display: none;
+}
+.show_button {
+	width: 92%;
+	float: left;
+	display: none;
+}
+input.show_politician_button {
+	color: #fff;
+	background: url('../img/button.png');
+	background-size: 319px 64px;
+	height: 70px;
+	width: 313px;
+	border-radius: 20px;
+	background-repeat: no-repeat;
+	border: 0px solid #00668e;
+	padding-left: 16px;
+	text-align: left;
+	padding-bottom: 10px;
+	font-weight: bold;
+	font-size: 21px;
+	float: right;
+	outline:none;
+}
+.star_steps img {
+	width: 20px;
+	margin-top: 54px;
+}
+.star_steps {
+	float: right;
+}
+img.star2, img.star3, img.star4{
+	opacity: 0.5;
+}
+.zip-code-step .form-control {
+	border-color: #b94a48;
+	background-color: #E9B4B6;
+	float: left;
+}
+.zip-code-step .control-label {
+	color: #b94a48;
+	/* start to Below code commented by tricore.dev12 */
+	/*font-size: 18px;
+	margin-left: 60px;*/
+	/* End to above code commented by tricore.dev12 */
+	
+	/* start to Below code added by tricore.dev12 */
+	font-size: 20px;
+	position: relative;
+	left: 20px;
+	top: 29px;
+}
+.listing {
+    float: left;
+    margin-left: 8.33333%;
+    margin-top: 40px;
+    width: 85%;
+    display: none;
+}
+.result_message {
+    bottom: 185px;
+    float: right;
+    position: relative;
+    width: 100%;
+    display: none;
+}
+.result_message p{
+	color: #b94a48;
+	text-align:right;
+}
+.row input[type="textbox"] {
+	font-size:30px; padding:0 25px;
+}
+@media only screen and (min-device-width : 320px) and (max-device-width : 480px) and (orientation : portrait) {
+	.navbar-brand {
+		padding: 15px 15px 15px 4px;
+	}
+	label.radio_text {
+		margin-right: 130px;
+	}
+	.row input[type="checkbox"] {
+		margin-left: 42px;
+	}
+	label.checkbox_text {
+		margin-right: 20px;
+	}
+	.container-fluid {
+		margin-left: auto;
+		margin-right: auto;
+		padding-left: 2px;
+		padding-right: 2px;
+	}
+	label.radio_text_other, label.radio_text_city_name{
+		margin-right:0px;
+	}
+	/* Start to Below code added by tricore.dev12 */
+	.zip-code-step .control-label{
+		left: 50px;
+		top: 0px;
+		float: left
+	}
+	label.control-label-other {	
+		float: left;
+		position: relative;
+		top: 0px;
+		left: 59px;
+	}
+	/* End to above code added by tricore.dev12 */
+	
+}
+@media only screen and (min-device-width : 320px) and (max-device-width : 480px) and (orientation : landscape) {
+	.navbar-brand {
+		padding: 15px 15px 15px 4px;
+	}
+	label.radio_text_other, label.radio_text_city_name{
+		margin-right:0px;
+	}
+	label.radio_text {
+		margin-right: 66px;
+	}
+	.row input[type="checkbox"] {
+		margin-left: 66px;
+	}
+	.container-fluid {
+		margin-left: auto;
+		margin-right: auto;
+		padding-left: 2px;
+		padding-right: 2px;
+	}
+	/* Start to Below code added by tricore.dev12 */
+	.zip-code-step .control-label{
+		left: 50px;
+		top: 0px;
+		float: left
+	}
+	label.control-label-other {	
+		float: left;
+		position: relative;
+		top: 0px;
+		left: 59px;
+	}
+	/* End to above code added by tricore.dev12 */
+}
+
+
