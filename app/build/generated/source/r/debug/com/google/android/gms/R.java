@@ -10,12 +10,12 @@ public final class R {
     public static final class id {
         public static final int auto = 0x7f0d002e;
         public static final int center = 0x7f0d0030;
-        public static final int email = 0x7f0d007e;
+        public static final int email = 0x7f0d007f;
         public static final int none = 0x7f0d0018;
         public static final int normal = 0x7f0d001a;
         public static final int radio = 0x7f0d0066;
-        public static final int text = 0x7f0d00a5;
-        public static final int text2 = 0x7f0d00a3;
+        public static final int text = 0x7f0d00a7;
+        public static final int text2 = 0x7f0d00a5;
         public static final int wrap_content = 0x7f0d002d;
     }
     public static final class integer {

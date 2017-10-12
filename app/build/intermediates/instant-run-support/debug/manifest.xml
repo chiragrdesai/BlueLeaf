@@ -8,7 +8,9 @@
         android:minSdkVersion="15"
         android:targetSdkVersion="26" />
 
-    <!-- Required permission for App measurement to run. -->
+    <meta-data
+        android:name="android.support.VERSION"
+        android:value="26.0.0-alpha1" /> <!-- Required permission for App measurement to run. -->
     <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
     <uses-permission android:name="android.permission.WAKE_LOCK" />
@@ -20,10 +22,6 @@
 
     <uses-permission android:name="com.example.jay.appfillbelly.permission.C2D_MESSAGE" />
 
-    <meta-data
-        android:name="android.support.VERSION"
-        android:value="26.0.0-alpha1" />
-
     <application
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
@@ -31,7 +29,9 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme" >
-        <activity android:name="com.example.jay.appfillbelly.MainActivity" >
+        <activity
+            android:name="com.example.jay.appfillbelly.SplashScreen"
+            android:theme="@style/Theme.Design.NoActionBar" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -40,6 +40,8 @@
         </activity>
         <activity android:name="com.example.jay.appfillbelly.SignIn" />
         <activity android:name="com.example.jay.appfillbelly.SignUp" />
+        <activity android:name="com.example.jay.appfillbelly.MainActivity" />
+        <activity android:name="com.example.jay.appfillbelly.MainPage" />
 
         <receiver
             android:name="com.google.android.gms.measurement.AppMeasurementReceiver"

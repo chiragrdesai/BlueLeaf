@@ -60,6 +60,10 @@
         "source": "/Users/vishvapatel/.android/build-cache/a8ffb215911eeab88661912149122fad5585d943/output/res/layout/design_navigation_menu_item.xml"
     },
     {
+        "merged": "/Users/vishvapatel/Desktop/Workspace/AppFillBelly/app/build/intermediates/res/merged/debug/layout/header.xml",
+        "source": "/Users/vishvapatel/Desktop/Workspace/AppFillBelly/app/src/main/res/layout/header.xml"
+    },
+    {
         "merged": "/Users/vishvapatel/Desktop/Workspace/AppFillBelly/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_title_material.xml",
         "source": "/Users/vishvapatel/.android/build-cache/3bf8e3b8c1f4450cca7f4e8190133c923af07179/output/res/layout/abc_alert_dialog_title_material.xml"
     },
@@ -74,6 +78,10 @@
     {
         "merged": "/Users/vishvapatel/Desktop/Workspace/AppFillBelly/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
         "source": "/Users/vishvapatel/.android/build-cache/3bf8e3b8c1f4450cca7f4e8190133c923af07179/output/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/Users/vishvapatel/Desktop/Workspace/AppFillBelly/app/build/intermediates/res/merged/debug/layout/activity_main_page.xml",
+        "source": "/Users/vishvapatel/Desktop/Workspace/AppFillBelly/app/src/main/res/layout/activity_main_page.xml"
     },
     {
         "merged": "/Users/vishvapatel/Desktop/Workspace/AppFillBelly/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
@@ -222,6 +230,10 @@
     {
         "merged": "/Users/vishvapatel/Desktop/Workspace/AppFillBelly/app/build/intermediates/res/merged/debug/layout/design_navigation_item.xml",
         "source": "/Users/vishvapatel/.android/build-cache/a8ffb215911eeab88661912149122fad5585d943/output/res/layout/design_navigation_item.xml"
+    },
+    {
+        "merged": "/Users/vishvapatel/Desktop/Workspace/AppFillBelly/app/build/intermediates/res/merged/debug/layout/activity_splash_screen.xml",
+        "source": "/Users/vishvapatel/Desktop/Workspace/AppFillBelly/app/src/main/res/layout/activity_splash_screen.xml"
     },
     {
         "merged": "/Users/vishvapatel/Desktop/Workspace/AppFillBelly/app/build/intermediates/res/merged/debug/layout/design_navigation_item_header.xml",

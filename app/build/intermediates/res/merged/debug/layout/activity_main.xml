@@ -4,6 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="@drawable/food2"
     tools:context="com.example.jay.appfillbelly.MainActivity">
 
     <!--<TextView
@@ -23,7 +24,7 @@
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:scaleType="fitXY"
-            android:src="@drawable/background"
+            android:src="@drawable/logo"
             />
 
         <!--<TextView

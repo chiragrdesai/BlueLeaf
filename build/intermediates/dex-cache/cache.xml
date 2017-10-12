@@ -3,15 +3,6 @@
 
     <item
         is-multidex="true"
-        jar="/Users/vishvapatel/.android/build-cache/808d00041052b7c424ff96a9a887a07253bf1a03/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.1"
-        sha1="3d6951cb416ebf8c66a32b9480808ca247b68344">
-        <dex dex="/Users/vishvapatel/Desktop/Workspace/AppFillBelly/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_408b7fce7dfef1fc53ec2615f1acb2808a031eff/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="/Users/vishvapatel/Desktop/Workspace/AppFillBelly/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
         jumboMode="true"
         optimize="true"
@@ -21,84 +12,12 @@
     </item>
     <item
         is-multidex="true"
-        jar="/Users/vishvapatel/.android/build-cache/b77fe2a33d1e7c8544122e0b8030e9b967e51c20/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.1"
-        sha1="1ac56e5801e986583cbe27f2cce57f626cc7ff93">
-        <dex dex="/Users/vishvapatel/Desktop/Workspace/AppFillBelly/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b492ede9ccde40422e4b7512af0f1bf3d9324266/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/vishvapatel/.android/build-cache/7086caab1f65620d2d48a49ef611899c2db9fa29/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.1"
-        sha1="0d5cbbbfe040201c7569478b70a13b58fd11aab4">
-        <dex dex="/Users/vishvapatel/Desktop/Workspace/AppFillBelly/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_456395bfdd9e01ab77bc5378e454b4f2702cb39e/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="/Users/vishvapatel/Desktop/Workspace/AppFillBelly/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="true"
         revision="26.0.1"
-        sha1="b15c5c171b3b3dedbef51c831d4710cd741988ec">
+        sha1="d8fd701b9a05758e410d535ab49671f86f2515f0">
         <dex dex="/Users/vishvapatel/Desktop/Workspace/AppFillBelly/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_955146d0c52d6a72343b781551fe89df14c4bb9d/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/vishvapatel/.android/build-cache/8b4431df698016e6aadc0037f67c016ade40c4cc/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.1"
-        sha1="94fca868854457ede6df15c902938468c71d579e">
-        <dex dex="/Users/vishvapatel/Desktop/Workspace/AppFillBelly/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d56cfc2f06409fff1218abb9a658c28605403f02/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/vishvapatel/.android/build-cache/2f3c89af5b30dfcb8cc977988ed3e9ebe6864158/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.1"
-        sha1="bd75f9f0296fe220da6d0ad961831b04541c4452">
-        <dex dex="/Users/vishvapatel/Desktop/Workspace/AppFillBelly/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2beeabe02d655365a1c7e595cefe4be1e856aae6/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/vishvapatel/.android/build-cache/0d5c0c842532ad42cb756964abe1f0c214d0e534/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.1"
-        sha1="a61e7010aa7be5da53cd1bc5279630510c9a4912">
-        <dex dex="/Users/vishvapatel/Desktop/Workspace/AppFillBelly/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_cf210806ca6f694a1a12e849f0297859039b2a9c/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/vishvapatel/.android/build-cache/8151f8ac85b0e588f585ccd76dfea248f24058d2/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.1"
-        sha1="e176fd06c2ad5b50a2f5cb4de6000a83a7cb48f5">
-        <dex dex="/Users/vishvapatel/Desktop/Workspace/AppFillBelly/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b5010ede3111c2ae8bba3088a3032434111a0904/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/vishvapatel/.android/build-cache/05c2185c6c349a9198e4193fd6b853a7e9e5fb26/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.1"
-        sha1="0e301f24b283f14b564f660c9abe863af6be5896">
-        <dex dex="/Users/vishvapatel/Desktop/Workspace/AppFillBelly/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_30f5297dd0639c66c0eb0b02c69bfbb43339b19c/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/vishvapatel/.android/build-cache/99c0206b22cc1a5171a99bcd89a096b35c7a1cdb/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.1"
-        sha1="ce9112e08a027c8620ae693983e38cdbb9f6371b">
-        <dex dex="/Users/vishvapatel/Desktop/Workspace/AppFillBelly/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c105b7b20db56b883d387ce4e17af14470f6e4d2/classes.dex" />
     </item>
 
 </items>

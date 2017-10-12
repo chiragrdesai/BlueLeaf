@@ -5,4 +5,12 @@
     <color name="colorAccent">#39796b</color>
     <color name="btnSignUp">#39796b</color>
     <color name="btnSignActive">#A9d440</color>
+
+
+    <color name="colorPrimary1">#795548</color>
+    <color name="colorPrimaryDark1">#5D4037</color>
+    <color name="darkgray">#6C6C6C</color>
+    <color name="White">#FFFFFF</color>
+    <color name="colorAccent1">#FF4081</color>
+
 </resources>
